@@ -15,4 +15,3 @@ These are just used to make sure you have everything set up and working
 2. `math_with_python.ipynb` Day 3: Using python to solve lots of math problems all at once
 3. `Simple-diffusion.ipynb` Day 4: Simple diffusion
 
-asdf
