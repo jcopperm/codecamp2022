@@ -1,4 +1,4 @@
 microscope_setup.pdf      plugging in your microscope and opening camera app
 safety_setup.pdf          safety, setup, and cleanup protocols for the imaging lab and provided supplies
-imaginglab_protocol.pdf   protocol to collect and image cells
+staining_protocol.pdf   protocol to collect, stain, and image cells
 images_google_colab.pdf   downloading github repository and uploading images to google drive for analysis with python in google colab
